@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<h1 style="color:blue">Accident & Emergency</h1>
+<img src="ambulance10c.jpg" alt="" style="width:520px;
+height:200px"><br>
+<p style="color:blue">We have an around-the-clock commitment to save lives.<br>
+
+Shalamar Hospital's Accident & Emergency Department is committed to responding quickly and providing excellent care for all types of medical emergencies
+from minor lacerations, broken bones to life-threatening injuries.<br>This department's highly trained staff of certified physicians,
+nurses and other quality health care providers are ready to respond to all sort of emergencies, in desirably little time.<br>
+The Department was upgraded in year 2000 with the help of Qarshi Foundation and the trustees of Shalamar Hospital.<br>
+It comprises of 25-beds including 8-bedded male ward, 12-bedded female and Paediatrics Ward, 2-bedded Intensive Care Unit.<br>
+The Department also includes Emergency operation theatre with a recovery room, Male examination room, Female examination room and a Treatment room.
+ </p>
+<a style="color:blue"HREF="doctorforaccident.html"> Doctor Names </a>
