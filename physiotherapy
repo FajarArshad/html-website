@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1 style="color:blue">Physiotherapy</h1>
+<img src="544636e02d5963be8b20d6ed6.jpg" alt="physiotherapy" style="width:600px;
+height:180px"><br>
+<p>Physiotherapy is an essential service and one of the healing sciences which pertains to treatment of disorders of muscles,
+ bones and joints by means of physical agents i.e. heat, light, water, magnet, manual and electronic massage and exercises.
+ It aims at restoration of physical function & performance, promote healing, prevent deformity and rehabilitation of disability caused by disease or trauma.
+Shalamar Hospital has an excellent department of physiotherapy.
+ Since its establishment in 1988, it is being continuously upgraded and equipped with the latest machines.
+ The department works in isolation as well as in collaboration with the departments of Orthopaedics, Medicine, Neurology and Chest Medicine etc.
+ </p>
+<a HREF="doctorforphysiotherapy.html"> Doctor Names </a>
+<h2 style="color:blue"> SERVICES AVAILABLE </h2>
+<p> 
+ 1) Short Wave Diathermy Machine.<br>
+ 2) Ultrasonic Machines.<br>
+ 3) Infra Red Lamp.<br>
+ 4) Micro Wave Diathermy.<br>
+ 5) Cervical Traction.<br>
+ 7) Electrical Muscle Stimulator.<br>
+ 8) Inter Ferential Current Therapy Units.<br>
+ 9) Continuous Passive Machine.<br>
+</p>
+</body>
+</html>
