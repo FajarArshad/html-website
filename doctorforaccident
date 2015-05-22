@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<h1 style="color:blue">Doctor Names </h1>
+<table border="1" style="width:100%">
+<tr>
+<td><p><b style="color:blue">1)PROF Asim Mumtaz.jpg<br>
+<img src="p.AsimMumtaz.jpg" alt="DR Asim Mumtaz" style="width:190px;
+height:200px"><br>
+M. Phil (Chemical Pathology)<br>
+Head of Department<br>
+Former Associate Professor,
+University of Health Sciences, Lahore 
+</b><br></p></td>
+	
+<td><p><b style="color:blue">2)Prof Zubair Amed<br>
+<img src="P.Zubair.Amed.jpg" alt="Dr Zubair" style="width:190px;
+height:200px"><br>
+FCPS, FICS (USA)<br>
+Head of Department<br>
+Former Professor & Head of ENT Department<br>
+CMH, Lahore.
+</b><br></p></td>
+
+<td><p><b style="color:blue">3)Dr hussain Khan<br>
+<img src="Dr.b.hussain.Khan.jpg" alt="Dr hussain" style="width:190px;
+height:200px"><br>
+FRCP (Glasgow)<br>
+Assistant Professor of Medicine </b></p></td>
+</tr>
